@@ -1,0 +1,16 @@
+.idea
+nohup.out
+venv
+.vscode
+mock_script.py
+__pycache__/
+*.log
+.DS_Store
+uni_margin_sync/output/*.txt
+build/
+analysis_script.egg-info/
+dist/
+output/
+.env
+.virtual_documents/
+.ipynb_checkpoints/
